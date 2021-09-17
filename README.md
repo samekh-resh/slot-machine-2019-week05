@@ -1,8 +1,9 @@
 # Ricamura's Memory Matcher
+Created a cute little slot machine that's a part of a larger game.. possibly? 
 
 **link to site** https://ricamuramemorymatcher.netlify.app/
 
-![](slots/slotmachine.png)
+<img src='slotmachine.png'>
 
 ### How It’s Made
 
